@@ -1,0 +1,11 @@
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb

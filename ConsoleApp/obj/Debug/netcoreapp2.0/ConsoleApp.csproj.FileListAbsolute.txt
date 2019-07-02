@@ -1,0 +1,10 @@
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\cs131641\ownCloud\ArquitetoSolução\Openshift\NetCoreExample\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
