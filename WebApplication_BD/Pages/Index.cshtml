@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h2>@ViewData["Title"]</h2>
+@foreach(var m in Model.Messages)
+{
+    <h3>@m</h3>
+}
