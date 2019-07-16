@@ -4,6 +4,12 @@
     ViewData["Title"] = "Home page";
 }
 
+Environments:
+<ul>
+    <li>@Model.EnvironmentData1</li>
+    <li>@Model.EnvironmentData2</li>
+</ul>
+
 <h2>@ViewData["Title"]</h2>
 @foreach(var m in Model.Messages)
 {
